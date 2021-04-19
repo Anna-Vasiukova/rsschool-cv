@@ -5,7 +5,8 @@ Hanna Vasiukova
   
 Contact Info:
 
-Phone:  +375292130079     
+Phone:  +375292130079
+Telegram: @Vasiukova_Anna
 Email: vasiukova.ann@yandex.ru                                                                                                 
 GitHub: https://github.com/Anna-Vasiukova
 
