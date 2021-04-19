@@ -1,28 +1,26 @@
-  First Name, Last Name
-
+First Name, Last Name:
 Hanna Vasiukova  
 26 years old
   
-  Contact Info
+Contact Info:
 Phone:  +375292130079     
 Email: vasiukova.ann@yandex.ru                                                                                                 
 GitHub: https://github.com/Anna-Vasiukova
 
-
-	Summary
+Summary:
 • I work successfully in a team
 • High level of responsibility
 • Interest in new skills and knowledge
 • I want to develop myself in a new direction
 	 
-   Skills	
+Skills:	
 • Python
 • Good communicative skills, can read technical literature
 	
-  Code examples	
+Code examples:	
 Portfolio: https://github.com/Anna-Vasiukova/project.git
 
-Work experience  
+Work experience:  
 2019 – present: Private Trade Unitary Enterprise «Burshtat» (wholesale, the number of employees is 120 people)
 Position: Chief Accountant
 Main responsibilities: 
@@ -39,7 +37,7 @@ Main responsibilities:
 • Accounting of fixed assets, fuel, goods and materials;
 • Collection of information for the preparation of financial statements.
 
-	 Education  
+Education:  
 
 04.2020 - 08.2020 – Coding School TeachMeSkills 
 Course: Python Developer
@@ -48,6 +46,6 @@ Description: learning Python programming, developing web applications with Djang
 2011-2016 – Belarussian State Economic University
 Specialization: Accounting, analysis and audit in foreign economic activity
 	 
-  English
+English:
 Approximate level of English – Pre-Intermediate
 
